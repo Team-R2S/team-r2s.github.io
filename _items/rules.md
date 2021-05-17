@@ -3,7 +3,7 @@ layout: page
 title: Rules
 description: Rules
 ---
-# 規則:
+## 規則:
 1. 題目採用動態計分，分數會隨著解題數增加而減少
 2. 你可以跟工作人員詢問關於題目相關的問題。
 3. 禁止與他人分享 Flag。
@@ -14,7 +14,7 @@ description: Rules
 Team R2S 擁有最終解釋權利
 違反規則的隊伍將會被 **取消晉級資格** 並 **刪除平台連線帳號**。
 
-# Rules:
+## Rules:
 1. Scoring is dynamic, the points of a challenge decrease per solve.
 2. Asking staffs questions about challenges is permitted.
 3. You SHALL NOT share flags or discuss in ANY form.
