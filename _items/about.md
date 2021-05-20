@@ -9,12 +9,12 @@ description: About us
 希望大家都能享受這次的活動 💖 
 
 Member of Team R2S:
-- @TwinkleStar03
-- @MuMu
-- @seadog007
-- @hahabox0
-- @lekous
-- @WoodMan
-- @redblaze
-- @nella17
-- @Sciuridae
+- TwinkleStar03
+- MuMu
+- seadog007
+- hahabox0
+- lekous
+- WoodMan
+- redblaze
+- nella17
+- Sciuridae
