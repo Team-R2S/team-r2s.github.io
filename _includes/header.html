@@ -34,6 +34,7 @@
               {% for page in site.items %}
                 <li class="nav-item"><a href="{% if page.redirect_to %}{{page.redirect_to}}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{{ page.title }}</a></li>
               {% endfor %}
+              <li class="nav-item"><a href="https://google.com">Google</a></li>
 
               <script>
                 // clean repeated dropdowns and add <li> to their positions
