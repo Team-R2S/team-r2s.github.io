@@ -31,6 +31,8 @@
                   </ul>
                 </li>
               {% endfor %}
+              <li class="nav-item"><a href="/">CTF_Platform</a></li>
+              <li class="nav-item"><a href="/">Scoreboard</a></li>
               {% for page in site.items %}
                 <li class="nav-item"><a href="{% if page.redirect_to %}{{page.redirect_to}}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{{ page.title }}</a></li>
               {% endfor %}
