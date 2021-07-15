@@ -12,8 +12,6 @@ description: Home
 - 第一階段報名 : 5 / 20 ~ 5 / 31
 - 第二階段報名 : 6 / 20 ~ 6 / 27
 
-第一階段報名網址 : [Click me](https://forms.gle/dbkpB7YLBahnBmhaA)  
-
 A Jeopardy Style CTF for Beginners, 2-4 players in a team.  
 Online Qualification : 7/16 - 18  
 
