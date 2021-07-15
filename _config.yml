@@ -39,7 +39,7 @@ theme_switch: off # Show color switch (on | off)
 # Extra settings
 blog: off # Show blog tag and post list (on | off)
 avatar: on # Show avatar (on | off)
-avatar_image: "assets/img/avatar.jpg"
+avatar_image: "assets/img/avatar.png"
 avatar_description: "Team-R2S"
 highlighter_theme:
   gruvbox # Theme of the syntax_highlighter [base16 |
